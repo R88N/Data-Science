@@ -11,7 +11,7 @@ I have used defensive programming to create a simple calculator which can handle
 A programme that recommends a movie to watch based on the word vector similarity of a movie description the user has watched called Planet Hulk and a set of other movies.
 
 ### Income Report
-I used Jupiter Notebooks to create a report that provides the following information:
+I used Jupyter Notebooks to create a report that provides the following information:
 - Compare the average income based on ethnicity.
 - On average do married or single people have a higher balance?
 - What is the highest income in our dataset?
